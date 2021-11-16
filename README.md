@@ -15,12 +15,13 @@ Sistema de Cadastro e recuperação de dados, usando persistência de dados não
   - Visual Studio Code
   - Eclipse
   - NetBeans
+* Servidor de banco de dados ```MySql 8```.
 * Biblioteca ```Json Simple```, inclusa dentro da pasta ```libs``` deste projeto.
 * Driver de conexão com o banco de dados ```Mysql connector Java```, incluso dentro da pasta ```libs``` deste projeto.
 
 ## Como abrir o projeto e executá-lo
 
-Após ter instalado a ```JDK``` e a ```IDE```, abra o projeto no Ambiente de Desenvolvimento ```Java```, importe a biblioteca ```Json Simple``` e o driver ```Mysql connector Java``` e execute-o.
+Após ter instalado a ```JDK```, a ```IDE``` e o servidor de banco de dados ```MySql 8```, abra o projeto no Ambiente de Desenvolvimento ```Java```, importe a biblioteca ```Json Simple``` e o driver ```Mysql connector Java``` e execute-o.
 
 ## Authors
 
